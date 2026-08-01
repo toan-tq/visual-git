@@ -1,0 +1,14 @@
+out/
+lib/
+dist/
+*.class
+.DS_Store
+*.bat
+PACKAGE-README.md
+create-exe.ps1
+*.ico
+*.png
+jdk-*/
+launch4j-*.exe
+manifest.txt
+package-*.txt
